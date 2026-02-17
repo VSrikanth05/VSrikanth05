@@ -2,7 +2,7 @@
 
 #Hello Techies👋.
 
-### AI & Machine Learning Graduate | Python Developer
+### AI & Machine Learning Engineer | Python Developer
 
 
 </div>
