@@ -70,13 +70,6 @@ I'm a **2025 AI & Machine Learning Graduate** passionate about building intellig
 
 ---
 
-## 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=VSrikanth05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsaDdwbm9ybmx5bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
